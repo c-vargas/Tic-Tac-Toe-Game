@@ -27,7 +27,7 @@ void ticTacToe::play(){
             player = 'X';
     }
 
-/* The following reStarts the game. If  the person playing inputs 'Y' or 'y' the game will restart. If the person inputs 'N' or 'n' the game will end and the user will be prompted 'Thank you for playing! Bye!' Similarly, if the user enters anything that is not 'Y' or 'y' then the game ends. 
+/* The following restarts the game. If  the person playing inputs 'Y' or 'y' the game will restart. If the person inputs 'N' or 'n' the game will end and the user will be prompted 'Thank you for playing! Bye!' Similarly, if the user enters anything that is not 'Y' or 'y' then the game ends. 
 */
 
 	    string again; 
