@@ -4,7 +4,7 @@
 #include "TicTacToe.h"
 
 int main(){
-	ticTacToe newGame;
+  ticTacToe newGame;
     newGame.play();
     return 0;
 }
