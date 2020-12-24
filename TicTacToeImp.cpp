@@ -32,7 +32,7 @@ void ticTacToe::play(){
 
 	    string again; 
 	    cout << "Would you like to play again(Y / N)? "; cin >> again;
-      cout<<"Thank you for playing.\n";
+      	    cout<<"Thank you for playing.\n";
 	    if(again != "Y" && again != "y") return;
 	    reStart(); // The reStart ends here
 }
